@@ -1,0 +1,3 @@
+login dantonGit
+pas 123456ww
+https://dantonGit@danton.scm.azurewebsites.net/danton.git
